@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=altoEscena\ anchoEscena\ altoBarraSuperio
+comment0.target=Bola(int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Bola\r\n
+comment1.params=
+comment1.target=void\ mover()
+comment1.text=\r\n\ Metodo\ para\ mover\ la\ bola\ por\ la\ pantalla\r\n
+comment2.params=
+comment2.target=void\ setVelocidadX()
+comment2.text=\r\n\ Metodo\ para\ cambiar\ la\ velocidad\ en\ el\ eje\ x\r\n
+comment3.params=
+comment3.target=void\ setVelocidadY()
+comment3.text=\r\n\ Metodo\ para\ cambiar\ la\ velocidad\ en\ el\ eje\ y\r\n
+numComments=4

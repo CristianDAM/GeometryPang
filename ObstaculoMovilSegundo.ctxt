@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ObstaculoMovilSegundo()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ObstaculoMovil2\r\n
+comment1.params=inicioPantalla
+comment1.target=void\ mover(int)
+comment1.text=\r\n\ Metodo\ que\ permite\ mover\ el\ obstaculo\ por\ la\ pantalla\r\n
+numComments=2

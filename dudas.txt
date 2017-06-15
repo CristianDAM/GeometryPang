@@ -1,0 +1,40 @@
+hacer bolas con distinta vida
+
+darle diferente direccion a las bolas cuando se crean
+
+¿¿¿¿¿pausar el juego????????
+
+
+
+
+
+
+
+
+si pasa muchos tiempo y gano no se muestra la imagen de la vic y al reves 
+si gano e intento saltar bajar o disparar no me deja pero si pierdo si
+
+
+
+
+
+
+
+las bolas atraviesan todo
+
+
+
+
+
+
+
+si gano los disparos se siguen moviendo
+
+
+
+
+
+si desaparece el bloque que se mueve del juego e invoco mover deberia saltar excepcion
+
+
+
